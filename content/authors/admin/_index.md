@@ -55,7 +55,7 @@ education:
   - area: PhD Adaptive Systems
     institution: York University
     date_start: 2014-09-01
-    date_end: 2019-06-1
+    date_end: 2019-06-01
     summary: |
       GPA: A+
       Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
