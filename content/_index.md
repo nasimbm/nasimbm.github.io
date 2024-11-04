@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-biography-3
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/NasimBM-CV.pdf
     design:
       css_class: dark
       background:

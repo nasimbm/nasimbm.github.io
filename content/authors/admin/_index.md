@@ -52,7 +52,7 @@ interests:
   - Cloud Computing
 
 education:
-  - area: PhD Adaptive Systems
+  - area: PhD in Computer Science
     institution: York University
     date_start: 2014-09-01
     date_end: 2019-06-01
@@ -69,7 +69,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: MSc Computer Science
+  - area: MSc in Computer Science
     institution: Toronto Metropolitan University (TMU)
     date_start: 2011-09-01
     date_end: 2013-06-01
@@ -82,7 +82,7 @@ education:
         - Sensor Networks (Directed studies): A+
         - Computer Networks: A
         - Visualization: A+ 
-  - area: BSc Computer Engineering
+  - area: BSc of Computer Engineering
     institution: Shahed University
     date_start: 2004-09-01
     date_end: 2008-12-31
