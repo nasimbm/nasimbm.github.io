@@ -2,8 +2,8 @@
 title: Availability analysis of cloud computing centers
 authors:
 - Hamzeh Khazaei
-- Jelena Mišić
-- ́ Vojislav B Miši\
+- Jelena Misic
+- ́ Vojislav B Misic
 - Nasim Beigi Mohammadi
 date: '2012-01-01'
 publishDate: '2024-11-04T03:05:39.874539Z'

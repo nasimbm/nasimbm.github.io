@@ -2,8 +2,8 @@
 title: Modeling the performance of heterogeneous IaaS cloud centers
 authors:
 - Hamzeh Khazaei
-- Jelena Miic
-- Vojislav B Miic
+- Jelena Misic
+- Vojislav B Misic
 - Nasim Beigi Mohammadi
 date: '2013-01-01'
 publishDate: '2024-11-04T03:05:39.880388Z'
