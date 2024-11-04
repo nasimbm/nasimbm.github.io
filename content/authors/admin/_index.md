@@ -76,12 +76,12 @@ education:
     summary: |
       GPA: A+
       Thesis: An Intrusion Detection System (IDS) for Smart Grid Neighbourhood Area Network
-      Selected Courses:
-      Secure Computing: A+
-      - Soft Computing and Machine Intel.: A+
-      - Sensor Networks (Directed studies): A+
-      - Computer Networks: A
-      - Visualization: A+ 
+      - Selected Courses:
+        - Secure Computing: A+
+        - Soft Computing and Machine Intel.: A+
+        - Sensor Networks (Directed studies): A+
+        - Computer Networks: A
+        - Visualization: A+ 
   - area: BSc Computer Engineering
     institution: Shahed University
     date_start: 2004-09-01
