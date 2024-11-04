@@ -57,14 +57,14 @@ education:
     date_start: 2014-09-01
     date_end: 2019-06-01
     summary: |
-      GPA: A+
-      Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
-      Selected Courses:
-      - Adaptive Software Systems : A+
-      - Quantitive System Performance: A+
-      - High-Performance Computer Networks: A
-      - Wireless Communications: Design and principles: A+
-      - Advanced topics in Information Security: A+
+      - GPA: A+
+      - Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
+      - Selected Courses:
+        - Adaptive Software Systems : A+
+        - Quantitive System Performance: A+
+        - High-Performance Computer Networks: A
+        - Wireless Communications: Design and principles: A+
+        - Advanced topics in Information Security: A+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -74,8 +74,8 @@ education:
     date_start: 2011-09-01
     date_end: 2013-06-01
     summary: |
-      GPA: A+
-      Thesis: An Intrusion Detection System (IDS) for Smart Grid Neighbourhood Area Network
+      - GPA: A+
+      - Thesis: An Intrusion Detection System (IDS) for Smart Grid Neighbourhood Area Network
       - Selected Courses:
         - Secure Computing: A+
         - Soft Computing and Machine Intel.: A+
