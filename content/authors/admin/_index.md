@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nasim Beigi
+title: Nasim Beigi Mohammadi
 
 # Name pronunciation (optional)
 name_pronunciation: 
