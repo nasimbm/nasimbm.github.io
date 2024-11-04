@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nasim's Homepage
+title: Nasim Beigi
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -90,12 +90,12 @@ education:
       GPA: A
       Final Project: Bus Rapid Transportation Modeling Using Petri Nets
       
-  - area: High school and diploma in Mathematics
-    institution: National Organization for Development of Exceptional Talents (NODET)
-    date_start: 2000-09-01
-    date_end: 2003-12-31
-    summary: |
-      GPA: A+
+  # - area: High school and diploma in Mathematics
+  #   institution: National Organization for Development of Exceptional Talents (NODET)
+  #   date_start: 2000-09-01
+  #   date_end: 2003-12-31
+  #   summary: |
+  #     GPA: A+
       
       
 work:
@@ -141,11 +141,11 @@ work:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Farsi
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Farsi
+#     percent: 100
   
 
 # Awards.
