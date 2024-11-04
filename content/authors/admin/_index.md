@@ -58,9 +58,9 @@ education:
     date_end: 2019-06-01
     summary: |
       GPA: A+
-      Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Marin Litoiu](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-      Selected Courses:
+    Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
+      
+    Selected Courses:
       - Adaptive Software Systems : A+
       - Quantitive System Performance: A+
       - High-Performance Computer Networks: A
@@ -69,6 +69,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+
   - area: MSc Computer Science
     institution: Toronto Metropolitan University (TMU)
     date_start: 2011-09-01
