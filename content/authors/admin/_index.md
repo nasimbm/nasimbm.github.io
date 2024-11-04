@@ -234,5 +234,4 @@ awards:
 
 ## About Me
 
-Nasim Beigi is a postdoctoral fellow in Electrical and Computer Engineering department at the University of Toronto. She works on adaptives software systems, application of AI in
-emergency and compute networks. 
+I am a postdoctoral fellow at University of Toronto working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca). I received my PhD  in computer science from York University under supervision of Prof. [Marin Litoiu](https://marinlitoiu.info.yorku.ca/). My research interests include self-adaptive network and service management. I investigate methods and mechanisms to engineer self-adaptive systems to ensure they maintain and improve their expected behaviour on their own. For more on my research, please see my publications.
