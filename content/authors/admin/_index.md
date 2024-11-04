@@ -58,8 +58,8 @@ education:
     date_end: 2019-06-01
     summary: |
       GPA: A+
-    Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
-    Selected Courses:
+      Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
+      Selected Courses:
       - Adaptive Software Systems : A+
       - Quantitive System Performance: A+
       - High-Performance Computer Networks: A
