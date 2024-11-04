@@ -11,7 +11,7 @@ last_name: Beigi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,115 +31,115 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nasim.beigi@utoronto.ca'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/NasimBM
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nasimbm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/nasim-beigi-phd-a9601655/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.ca/citations?user=77kDIi0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3572-5920
 
 interests:
   - Adaptive Systems
+  - Cyber Security
   - ML 4 Emergency
-  - Computer Networks
+  - Software Defined Networks
+  - Cloud Computing
 
 education:
   - area: PhD Adaptive Systems
     institution: York University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-09-01
+    date_end: 2019-06-1
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: A+
+      Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Marin Litoiu](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Selected Courses:
+      - Adaptive Software Systems : A+
+      - Quantitive System Performance: A+
+      - High-Performance Computer Networks: A
+      - Wireless Communications: Design and principles: A+
+      - Advanced topics in Information Security: A+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Computer Science
     institution: Toronto Metropolitan University (TMU)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2011-09-01
+    date_end: 2013-06-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: A+
+      Thesis: An Intrusion Detection System (IDS) for Smart Grid Neighbourhood Area Network
+      Selected Courses:
+      Secure Computing: A+
+      - Soft Computing and Machine Intel.: A+
+      - Sensor Networks (Directed studies): A+
+      - Computer Networks: A
+      - Visualization: A+ 
   - area: BSc Computer Engineering
     institution: Shahed University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2004-09-01
+    date_end: 2008-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: A
+      Final Project: Bus Rapid Transportation Modeling Using Petri Nets
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: High school and diploma in Mathematics
+    institution: National Organization for Development of Exceptional Talents (NODET)
+    date_start: 2000-09-01
+    date_end: 2003-12-31
+    summary: |
+      GPA: A+
+      
+      
 work:
   - position: Postdoctoral Fellow
     company_name: University of Toronto
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+    company_url: 'https://www.utoronto.ca'
+    company_logo: 'https://www.cleanpng.com/png-university-of-toronto-higher-education-doctorate-p-1808313/'
+    date_start: 2019-10-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
 languages:
   - name: English
@@ -153,31 +153,83 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  # - title: Neural Networks and Deep Learning
+  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
+  #   date: '2023-11-25'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: |
+  #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: NSERC Alexander Graham Bell Canada Graduate Scholarships-Doctoral (CGS D)
+    url: 
+    date: '2016-06-01'
+    awarder: NSERC
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+
+  - title: Recognized for research funding achievements at York University
+    url: https://www.yorku.ca/yfile/2016/12/14/grad-students-and-postdocs-recognized-for-research-funding-achievements/
+    date: '2016-12-01'
+    awarder: York University
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+
+  - title: Lassonde School of Engineering Award (L'OSCAR)
+    url: 
+    date: '2017-09-01'
+    awarder: York University
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+  - title: Ontario Graduate Scholarship (OGS), Declined in favour of CGS D
+    url: 
+    date: '2017-04-01'
+    awarder: Ontario Government
+    icon: 
+    summary: |
+
+  - title: 1st Vanier Scholarship Nominee in Computer Science and Engineering at York University
+    url: 
+    date: '2015-04-01'
+    awarder: Government of Canada
+    icon: 
+    summary: |
+
+  - title: 1st Prize Winner, TELUS/Juniper SDN Programming Challenge 
+    url: 
+    date: '2015-06-01'
+    awarder: Telus and Juniper
+    icon: 
+    summary: |
+
+  - title: Ontario Graduate Scholarship (OGS), May 2015-May 2016 
+    url: 
+    date: '2015-06-01'
+    awarder: Ontario Government
+    icon: 
+    summary: |  
+
+  - title: Student Travel Grant 
+    url: 
+    date: '2016-10-01'
+    awarder: IEEE International Conference on Network and Service Management (CNSM) 
+    icon: 
+    summary: |
+
+  - title: Graduate Award for Productivity and Success in Computer Science, as an international student
+    url: 
+    date: '2013-01-01'
+    awarder: Toronto Metropolitan University, formerly Ryerson University 
+    icon: 
+    summary: |
+
+  - title: Graduate Award for Academic Excellency, as an international student
+    url: 
+    date: '2012-09-01'
+    awarder: Toronto Metropolitan University, formerly Ryerson University
+    icon: 
+    summary: |
+  
 ---
 
 ## About Me
