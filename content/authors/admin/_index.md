@@ -87,8 +87,8 @@ education:
     date_start: 2004-09-01
     date_end: 2008-12-31
     summary: |
-      GPA: A
-      Final Project: Bus Rapid Transportation Modeling Using Petri Nets
+      - GPA: A
+      - Final Project: Bus Rapid Transportation Modeling Using Petri Nets
       
   # - area: High school and diploma in Mathematics
   #   institution: National Organization for Development of Exceptional Talents (NODET)
