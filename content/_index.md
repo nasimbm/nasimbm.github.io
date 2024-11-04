@@ -60,6 +60,7 @@ sections:
   #     columns: 2
 
   - block: collection
+    id: papers
     content:
       title: Publications
       text: ""
@@ -110,7 +111,7 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
-  
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
