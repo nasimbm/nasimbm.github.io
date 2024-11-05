@@ -47,7 +47,7 @@ profiles:
 interests:
   - Adaptive Systems
   - Cyber Security
-  - ML 4 Emergency
+  - ML 4 Public Safety 
   - Software Defined Networks
   - Cloud Computing
 
