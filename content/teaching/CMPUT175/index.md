@@ -7,5 +7,9 @@ math: false
 tags:
   - ComputingScience
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Computing Science Department at the University of Alberta.'
 ---
+
+- Fall 2016, Computational Thinking Through Mechatronics (EECS1011)
+- Fall 2015, Computer Use Fundamentals (EECS 1520)
+- Fall 2014, User Interfaces (EECS 3461)
