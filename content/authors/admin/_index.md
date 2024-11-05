@@ -78,8 +78,8 @@ education:
       - Thesis: An Intrusion Detection System (IDS) for Smart Grid Neighbourhood Area Network
       - Selected Courses:
         - Secure Computing: A+
-        - Soft Computing and Machine Intel.: A+
-        - Sensor Networks (Directed studies): A+
+        - Soft Computing and Machine Intelligence : A+
+        - Sensor Networks: A+
         - Computer Networks: A
         - Visualization: A+ 
   - area: BSc of Computer Engineering
