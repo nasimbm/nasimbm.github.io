@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/nasimbm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/nasim-beigi-phd-a9601655/
+    url: https://www.linkedin.com/in/nasim-beigi-mohammadi-phd-a9601655
   - icon: academicons/google-scholar
     url: https://scholar.google.ca/citations?user=77kDIi0AAAAJ&hl=en
   - icon: academicons/orcid
