@@ -65,9 +65,9 @@ education:
         - High-Performance Computer Networks: A
         - Wireless Communications: Design and principles: A+
         - Advanced topics in Information Security: A+
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://ys.library.yorku.ca/items/ce7638f2-10d1-46d2-98fa-0ca0bf939ec9/full'
 
   - area: MSc in Computer Science
     institution: Toronto Metropolitan University (TMU)
@@ -82,6 +82,9 @@ education:
         - Sensor Networks: A+
         - Computer Networks: A
         - Visualization: A+ 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://rshare.library.torontomu.ca/articles/thesis/An_Intrusion_Detection_System_for_Smart_Grid_Neighborhood_Area_Network/14656977?file=28138881'  
   - area: BSc of Computer Engineering
     institution: Shahed University
     date_start: 2004-09-01
