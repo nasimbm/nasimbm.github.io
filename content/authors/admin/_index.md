@@ -70,7 +70,7 @@ education:
     #   url: 'https://ys.library.yorku.ca/items/ce7638f2-10d1-46d2-98fa-0ca0bf939ec9/full'
 
   - area: MSc in Computer Science
-    institution: Toronto Metropolitan University (TMU)
+    institution: Toronto Metropolitan University
     date_start: 2011-09-01
     date_end: 2013-06-01
     summary: |
