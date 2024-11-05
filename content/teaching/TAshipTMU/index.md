@@ -1,5 +1,5 @@
 ---
-title: Teaching Assistantship @ UTM
+title: Teaching Assistantship @ TMU
 summary: CS Department at Toronto Metropolitan University
 date: 2016-01-01
 type: docs
