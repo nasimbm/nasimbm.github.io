@@ -38,9 +38,9 @@ header:
       text: "Nasim's Homepage"
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} Nasim Beigi.'
+# footer:
+#   copyright:
+#     notice: '© {year} Nasim Beigi.'
     # license:
     #   enable: false
     #   allow_derivatives: false
