@@ -1,7 +1,7 @@
 ---
 title: Teaching Assistantship @ TMU
 summary: Department of Computer Science, Toronto Metropolitan University
-date: 2016-01-01
+date: 2011-09-01
 type: docs
 math: false
 tags:

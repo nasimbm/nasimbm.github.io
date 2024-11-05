@@ -1,7 +1,7 @@
 ---
 title: Teaching Assistantship @ YorkU
 summary: Department of Electrical Engineering and Computer Science, York University
-date: 2016-01-01
+date: 2014-09-01
 type: docs
 math: false
 tags:
