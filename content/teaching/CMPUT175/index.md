@@ -5,11 +5,11 @@ date: 2018-01-01
 type: docs
 math: false
 tags:
-  - ComputingScience
+  - Instructor
 image:
   caption: 'Computing Science Department at the University of Alberta.'
 ---
 
-- Fall 2016, Computational Thinking Through Mechatronics (EECS1011)
-- Fall 2015, Computer Use Fundamentals (EECS 1520)
-- Fall 2014, User Interfaces (EECS 3461)
+### Summary:
+I was an instructor for CMPUT175, a programming course to major and non-major first-year students in the Department of 
+Computing Science at the University of Alberta (UofA) in Winter 2018. There were 97 students in my class.
