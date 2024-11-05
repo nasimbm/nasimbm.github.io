@@ -38,14 +38,14 @@ header:
       text: "Nasim's Homepage"
 
 # Site footer
-# footer:
-#   copyright:
-#     notice: '© {year} Nasim Beigi.'
-    # license:
-    #   enable: false
-    #   allow_derivatives: false
-    #   share_alike: false
-    #   allow_commercial: false
+footer:
+  copyright:
+    notice: '© {year} Nasim Beigi.'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
 
 # Localization
 locale:
