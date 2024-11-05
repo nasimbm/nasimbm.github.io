@@ -32,6 +32,7 @@ sections:
     #       parallax: false
 
   - block: resume-awards
+    id: awards
     content:
       title: Awards
       username: admin
