@@ -1,6 +1,6 @@
 ---
 title: Introduction to Foundations of Computing II
-summary: Department of Computing Science, University of Alberta!
+summary: Department of Computing Science, University of Alberta
 date: 2018-01-01
 type: docs
 math: false

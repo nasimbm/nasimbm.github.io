@@ -1,6 +1,6 @@
 ---
 title: Teaching Assistantship @ YorkU
-summary: EECS Department at York University
+summary: Department of Electrical Engineering and Computer Science, York University
 date: 2016-01-01
 type: docs
 math: false
