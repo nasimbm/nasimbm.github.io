@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Nasim Beigi
+title: Nasim Beigi Mohammadi
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Nasim
-last_name: Beigi
+last_name: Beigi Mohammadi
 
 # Status emoji
 status:
