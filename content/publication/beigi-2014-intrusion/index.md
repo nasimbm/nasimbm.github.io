@@ -2,9 +2,9 @@
 title: An intrusion detection system for smart grid neighborhood area network
 authors:
 - Nasim Beigi-Mohammadi
-- Jelena Mišić
+- Jelena Misic
 - Hamzeh Khazaei
-- ́ Vojislav B Miši\
+- Vojislav B Misic
 date: '2014-01-01'
 publishDate: '2024-11-04T03:05:39.850501Z'
 publication_types:
