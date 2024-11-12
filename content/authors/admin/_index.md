@@ -45,11 +45,12 @@ profiles:
     url: https://orcid.org/0000-0002-3572-5920
 
 interests:
-  - Adaptive Systems
-  - Cyber Security
-  - ML 4 Public Safety 
-  - Software Defined Networks
+  - Self-Learning Systems
   - Cloud Computing
+  - Machine Learning for Public Safety 
+  - Software Defined Infrastructure
+  - Data Centre Networking
+ 
 
 education:
   - area: PhD in Computer Science
