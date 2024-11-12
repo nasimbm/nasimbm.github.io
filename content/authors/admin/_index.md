@@ -168,7 +168,7 @@ awards:
     url: 
     date: '2016-06-01'
     awarder: NSERC
-    icon: coursera
+    icon: icon3
     summary: |
 
   - title: Recognized for research funding achievements at York University
