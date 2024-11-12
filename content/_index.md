@@ -31,11 +31,11 @@ sections:
     #       position: center
     #       parallax: false
 
-  - block: resume-awards
-    id: awards
-    content:
-      title: Awards
-      username: admin
+  # - block: resume-awards
+  #   id: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
 
   # - block: markdown
   #   content:
@@ -60,17 +60,17 @@ sections:
   #     view: article-grid
   #     columns: 2
 
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
 
   # - block: collection
   #   id: talks

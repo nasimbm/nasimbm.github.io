@@ -10,12 +10,8 @@ design:
 
 # Page sections
 sections:
-  - block: resume-awards
+  - block: resume-awards # this refers to _index.md file under admin which is considered as resume and then we identify the section after -
     content:
       title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
       username: admin
 ---
