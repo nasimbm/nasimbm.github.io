@@ -21,5 +21,5 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: article-grid #citation
+      view: citation
 ---
