@@ -79,5 +79,5 @@ sections:
       awarder: Toronto Metropolitan University, formerly Ryerson University
       icon: 
       summary: |
-  ---
+---
 
