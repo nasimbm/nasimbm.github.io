@@ -168,7 +168,7 @@ awards:
     url: 
     date: '2016-06-01'
     awarder: NSERC
-    icon: icons/nserc.svg
+    icon: nserc.svg
     summary: |
 
   - title: Recognized for research funding achievements at York University
