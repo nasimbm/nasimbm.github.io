@@ -56,7 +56,7 @@ education:
   - area: PhD in Computer Science
     institution: York University
     date_start: 2014-09-01
-    date_end: 2019-06-01
+    date_end: 2020-02-01
     summary: |
       - GPA: A+
       - Thesis: Engineering Self-adaptive Applications on Software Defined Infrastructure
@@ -107,8 +107,24 @@ work:
     company_name: University of Toronto
     company_url: 'https://www.utoronto.ca'
     company_logo: 'https://www.cleanpng.com/png-university-of-toronto-higher-education-doctorate-p-1808313/'
-    date_start: 2019-10-01
+    date_start: 2023-03-01
     date_end: ''
+    summary: |2-
+
+  - position: Leave of Absence
+    company_name: University of Toronto
+    company_url: 'https://www.utoronto.ca'
+    company_logo: 'https://www.cleanpng.com/png-university-of-toronto-higher-education-doctorate-p-1808313/'
+    date_start: 2020-10-01
+    date_end: 2023-02-01
+    summary: |2-
+
+  - position: Postdoctoral Fellow
+    company_name: University of Toronto
+    company_url: 'https://www.utoronto.ca'
+    company_logo: 'https://www.cleanpng.com/png-university-of-toronto-higher-education-doctorate-p-1808313/'
+    date_start: 2019-10-01
+    date_end: 2020-10-01
     summary: |2-
   
 # Skills
