@@ -115,7 +115,7 @@ work:
     company_name: University of Toronto
     company_url: 'https://www.utoronto.ca'
     company_logo: 'https://www.cleanpng.com/png-university-of-toronto-higher-education-doctorate-p-1808313/'
-    date_start: 2020-10-01
+    date_start: 2020-11-01
     date_end: 2023-02-01
     summary: |2-
 
