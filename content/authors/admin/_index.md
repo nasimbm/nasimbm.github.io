@@ -46,10 +46,10 @@ profiles:
 
 interests:
   - Self-Learning Systems
-  - Cloud Computing
-  - Machine Learning for Public Safety 
+  - Engnineering Dependable Cloud Systems
+  - Machine Learning System Design 
   - Software Defined Infrastructure
-  - Data Centre Networking
+  - Knowledge Representaion
  
 
 education:
