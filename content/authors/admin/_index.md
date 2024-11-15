@@ -46,7 +46,7 @@ profiles:
 
 interests:
   - Self-Learning Systems
-  - Engnineering Dependable Cloud Systems
+  - Engnineering Cloud Systems
   - Machine Learning System Design 
   - Software Defined Infrastructure
   - Knowledge Representaion
