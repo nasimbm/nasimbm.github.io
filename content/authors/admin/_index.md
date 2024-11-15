@@ -48,7 +48,7 @@ interests:
   - Self-Learning Systems
   - Engnineering Cloud Systems
   - Machine Learning System Design 
-  - Software Defined Infrastructure
+  - Programmable Infrastructure
   - Knowledge Representaion
  
 
