@@ -45,8 +45,8 @@ profiles:
     url: https://orcid.org/0000-0002-3572-5920
 
 interests:
-  - Emergency Management for Public Safety
   - Self-Learning Systems
+  - Public Safety Management
   - Engnineering Cloud Systems
   - Machine Learning System Design 
   - Programmable Infrastructure
