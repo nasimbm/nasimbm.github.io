@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Toronto
-    url: https://www.utoronto.ca/
+  - name: Ontario Tech University
+    url: [https://www.utoronto.ca/](https://engineering.ontariotechu.ca/departments/ecse/index.php)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -256,4 +256,4 @@ awards:
 
 ## About Me
 
-I am a postdoctoral fellow at University of Toronto working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca). I received my PhD  in computer science from York University under supervision of Prof. [Marin Litoiu](https://marinlitoiu.info.yorku.ca/). My research interests include self-adaptive network and service management. I investigate methods and mechanisms to engineer self-adaptive systems to ensure they maintain and improve their expected behaviour on their own. For more on my research, please see my publications.
+I am an Assistant Professor in the Department of Electrical, Computer, and Software Engineering at Ontario Tech University. Previously, I was a postdoctoral fellow at the University of Toronto working with Prof. [Alberto Leon-Garcia](https://www.nal.utoronto.ca). I received my PhD  in computer science from York University under the supervision of Prof. [Marin Litoiu](https://marinlitoiu.info.yorku.ca/). My research interests include self-adaptive network and service management. I investigate methods and mechanisms to engineer self-adaptive systems to ensure they maintain and improve their expected behaviour on their own. For more information on my research, please refer to my publications.
