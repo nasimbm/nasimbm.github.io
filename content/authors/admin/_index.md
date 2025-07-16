@@ -23,9 +23,9 @@ highlight_name: true
 role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: Ontario Tech University
-#     url: [https://www.utoronto.ca/](https://engineering.ontariotechu.ca/departments/ecse/index.php)
+organizations:
+  - name: Ontario Tech University
+    url: https://engineering.ontariotechu.ca/departments/ecse/index.php
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
