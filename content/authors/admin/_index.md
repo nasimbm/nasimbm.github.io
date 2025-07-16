@@ -104,12 +104,20 @@ education:
       
       
 work:
+  - position: Assistant Professor
+    company_name: Ontario Tech University
+    company_url: 'https://ontariotechu.ca'
+    company_logo: ''
+    date_start: 2025-07-01
+    date_end: ''
+    summary: |2-
+    
   - position: Postdoctoral Fellow
     company_name: University of Toronto
     company_url: 'https://www.utoronto.ca'
     company_logo: 'https://www.cleanpng.com/png-university-of-toronto-higher-education-doctorate-p-1808313/'
     date_start: 2023-03-01
-    date_end: ''
+    date_end: '2025-06-30'
     summary: |2-
 
   - position: Leave of Absence
