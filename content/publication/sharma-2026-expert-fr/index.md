@@ -12,5 +12,5 @@ authors:
 date: '2026-01-01'
 publication_types:
 - paper-conference
-publication: "*5th ACM SIGSPATIAL International Workshop on Spatial Big Data and AI for Industrial Applications (GeoIndustry'26)*, Toronto, ON, Canada"
+publication: "*5th ACM SIGSPATIAL International Workshop on Spatial Big Data and AI for Industrial Applications (GeoIndustry'26)*, Riverside, CA, USA"
 ---
